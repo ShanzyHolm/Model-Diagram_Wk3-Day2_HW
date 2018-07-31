@@ -1,0 +1,9 @@
+Modelling Exercise
+Your task is to model one of the following:
+Netflix
+Instagram
+BBC News Website
+Think about what database tables this site would need, and what relationships they would have to each other. Are they one-to-one, one-to-many, or many-to-many?
+You should have at least 5 tables represented in your diagram.
+You can just draw your diagrams and/or notes with pen and paper. Alternatively, you can use a tool like draw.io or lucidchart.
+There's no need to submit this. We will go over some of your ideas tomorrow as a class.
